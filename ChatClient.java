@@ -79,5 +79,5 @@ class InputThread extends Thread{
 					sock.close();
 			}catch(Exception ex){}
 		}
-	} 
+	} //end of
 }//end of InputThread
